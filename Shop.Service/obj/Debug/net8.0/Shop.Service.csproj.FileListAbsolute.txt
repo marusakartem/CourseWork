@@ -1,0 +1,16 @@
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.AssemblyInfoInputs.cache
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.AssemblyInfo.cs
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.csproj.CoreCompileInputs.cache
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.sourcelink.json
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.csproj.AssemblyReference.cache
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\bin\Debug\net8.0\Shop.Service.deps.json
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\bin\Debug\net8.0\Shop.Service.dll
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\bin\Debug\net8.0\Shop.Service.pdb
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\bin\Debug\net8.0\Shop.Data.dll
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\bin\Debug\net8.0\Shop.Data.pdb
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Ser.08872B82.Up2Date
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.dll
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\refint\Shop.Service.dll
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\Shop.Service.pdb
+D:\!_DOCS\Desktop\Артем\Курсовая робота\2\Shop.Service\obj\Debug\net8.0\ref\Shop.Service.dll
